@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nour8317/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0739-daily-temperatures](https://github.com/Nour8317/LeetCode/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Nour8317/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Nour8317/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Nour8317/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Nour8317/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Nour8317/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
