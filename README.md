@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Nour8317/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0238-product-of-array-except-self](https://github.com/Nour8317/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/Nour8317/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Nour8317/LeetCode/tree/master/0792-binary-search) |
@@ -61,5 +62,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Nour8317/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/Nour8317/LeetCode/tree/master/0792-binary-search) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Nour8317/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
