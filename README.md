@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nour8317/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/Nour8317/LeetCode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/Nour8317/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Nour8317/LeetCode/tree/master/0883-car-fleet) |
 ## Prefix Sum
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0883-car-fleet](https://github.com/Nour8317/LeetCode/tree/master/0883-car-fleet) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Nour8317/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
