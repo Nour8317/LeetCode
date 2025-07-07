@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Nour8317/LeetCode/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/Nour8317/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Nour8317/LeetCode/tree/master/0883-car-fleet) |
 ## Monotonic Stack
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nour8317/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Nour8317/LeetCode/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/Nour8317/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -103,8 +105,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nour8317/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Nour8317/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Nour8317/LeetCode/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nour8317/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Nour8317/LeetCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
