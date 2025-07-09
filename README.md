@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Nour8317/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Nour8317/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Nour8317/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Nour8317/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Nour8317/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Nour8317/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nour8317/LeetCode/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Nour8317/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 <!---LeetCode Topics End-->
